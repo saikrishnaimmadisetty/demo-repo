@@ -1,3 +1,3 @@
 # Practice of GIT
 
-Started learning which would be coming to intermediate level
+Started learning which would be coming to intermediate level.
